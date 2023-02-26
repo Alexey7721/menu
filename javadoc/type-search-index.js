@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.company.menu","l":"ConsoleInputOutput"},{"p":"com.company.menu.demo","l":"DemoAppl"},{"p":"com.company.menu","l":"ExitItem"},{"p":"com.company.menu","l":"InputOutput"},{"p":"com.company.menu","l":"Item"},{"p":"com.company.menu","l":"Menu"},{"p":"com.company.menu","l":"MenuWithExit"}]
