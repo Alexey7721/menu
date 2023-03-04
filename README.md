@@ -11,7 +11,6 @@
 [![Visual studio code](icons/visual-studio-code-2019-48.png)](https://code.visualstudio.com/)
 <br>
 
-## __Установка и настойка__
 
 
 
